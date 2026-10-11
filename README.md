@@ -8,15 +8,18 @@ Son approche repose sur un principe simple : proposer des fonctionnalités innov
 
 **Plus qu’un simple modloader, le NCV1 représente une partie de l’héritage du modding sur GTA ONLINE PS3**, témoignant du travail et de la passion d’une communauté déterminée à faire vivre ses créations.
 
+### Voir la présentation YouTube du NCV1 ModLoader V2
+[![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
+
+### Voir la présentation YouTube du NCV1 ModLoader V1
+[![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
+
+### Voici quelques images du ModLoader
 ![Image du NC V1 ModLoader](images/jeu0.png)
 ![Image du NC V1 ModLoader](images/jeu1.png)
 ![Image du NC V1 ModLoader](images/jeu2.png)
 ![Image du NC V1 ModLoader](images/jeu3.png)
 ![Image du NC V1 ModLoader](images/jeu4.png)
-
-[![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
-
-[![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
 
 # SC-CL
 [SC-CL](https://bitbucket.org/scclteam/sc-cl) est un compilateur Clang visant les formats des scripts de Rockstar Games.
