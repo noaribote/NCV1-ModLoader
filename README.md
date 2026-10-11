@@ -14,9 +14,9 @@ Son approche repose sur un principe simple : proposer des fonctionnalités innov
 ![Image du NC V1 ModLoader](images/jeu3.png)
 ![Image du NC V1 ModLoader](images/jeu4.png)
 
-![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
+[![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
 
-![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
+[![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
 
 # SC-CL
 [SC-CL](https://bitbucket.org/scclteam/sc-cl) est un compilateur Clang visant les formats des scripts de Rockstar Games.
