@@ -1,4 +1,4 @@
-[Vous retrouverez ici le source code au **COMPLET**.](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing)
+[Vous retrouverez le source code au **COMPLET** ici](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing)
 
 # GTA V PS3 : NCV1 ModLoader v2.1 SOURCE CODE
 
@@ -10,6 +10,11 @@ Son approche repose sur un principe simple : proposer des fonctionnalités innov
 
 **Plus qu’un simple modloader, le NCV1 représente une partie de l’héritage du modding sur GTA ONLINE PS3**, témoignant du travail et de la passion d’une communauté déterminée à faire vivre ses créations.
 
+## Point important
+
+- Vous retrouverez différents "testa" dans le code : Ils indiquent les parties du code qui étaient en phase de test.
+
+## Présentations vidéo
 > Voir NCV1 ModLoader V2 sur YouTube
 
 [![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
