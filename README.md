@@ -1,3 +1,5 @@
+[Vous retrouverez ici le source code au **COMPLET**.](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing)
+
 # GTA V PS3 : NCV1 ModLoader v2.1 SOURCE CODE
 
 Le **NCV1 ModLoader** est un modloader emblématique de la communauté **GTA ONLINE sur PS3**, apparu à la sortie de RE:V. Développé à partir des sources du **NotYourDope (NYD)**, il s’est rapidement imposé comme un outil incontournable pour les joueurs souhaitant personnaliser leur expérience de jeu.
@@ -8,18 +10,14 @@ Son approche repose sur un principe simple : proposer des fonctionnalités innov
 
 **Plus qu’un simple modloader, le NCV1 représente une partie de l’héritage du modding sur GTA ONLINE PS3**, témoignant du travail et de la passion d’une communauté déterminée à faire vivre ses créations.
 
-### Voir la présentation YouTube du NCV1 ModLoader V2
+> Voir NCV1 ModLoader V2 sur YouTube
 [![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
 
-### Voir la présentation YouTube du NCV1 ModLoader V1
+> Voir NCV1 ModLoader V1 sur YouTube
 [![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
 
-### Voici quelques images du ModLoader
-![Image du NC V1 ModLoader](images/jeu0.png)
-![Image du NC V1 ModLoader](images/jeu1.png)
-![Image du NC V1 ModLoader](images/jeu2.png)
-![Image du NC V1 ModLoader](images/jeu3.png)
-![Image du NC V1 ModLoader](images/jeu4.png)
+# Discord
+L'historique de l'avancement du NCV1 ModLoader sera continuellement [disponible ici](https://discord.gg/KKTWRF8bkg)
 
 # SC-CL
 [SC-CL](https://bitbucket.org/scclteam/sc-cl) est un compilateur Clang visant les formats des scripts de Rockstar Games.
@@ -98,3 +96,10 @@ Generic Options:
   -help-list                 - Display list of available options (-help-list-hidden for more)
   -version                   - Display the version of this program
 ```
+
+### Voici quelques images du ModLoader
+![Image du NC V1 ModLoader](images/jeu0.png)
+![Image du NC V1 ModLoader](images/jeu1.png)
+![Image du NC V1 ModLoader](images/jeu2.png)
+![Image du NC V1 ModLoader](images/jeu3.png)
+![Image du NC V1 ModLoader](images/jeu4.png)
