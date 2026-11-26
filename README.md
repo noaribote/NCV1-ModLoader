@@ -10,7 +10,7 @@
 
 [Code source complet (archive ZIP)](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing) · [Site de Noa_chid’s XMB](https://www.noachidxmb.xyz/) · [Discord du projet](https://discord.gg/KKTWRF8bkg)
 
-[![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
+![Image du NC V1 ModLoader](images/jeu0.png)
 
 </div>
 
@@ -231,7 +231,6 @@ Generic Options:
 
 ## Captures du modloader
 
-![Image du NC V1 ModLoader](images/jeu0.png)
 ![Image du NC V1 ModLoader](images/jeu1.png)
 ![Image du NC V1 ModLoader](images/jeu2.png)
 ![Image du NC V1 ModLoader](images/jeu3.png)
