@@ -221,13 +221,13 @@ Generic Options:
 
 ## Présentations vidéo
 
-> Voir NCV1 ModLoader V2 sur YouTube
-
 [![Présentation du NC V1 ModLoader V2](images/mini2.jpg)](https://youtu.be/TmcjbBF2J9M?si=sa4-OieLWNPPSPIC)
 
-> Voir NCV1 ModLoader V1 sur YouTube
+> Voir NCV1 ModLoader V2 sur YouTube
 
 [![Présentation du NC V1 ModLoader V1](images/mini1.jpg)](https://youtu.be/w_9eOTsuOl4?si=0K8nI-NVFm_WIw2Y)
+
+> Voir NCV1 ModLoader V1 sur YouTube
 
 ## Captures du modloader
 
