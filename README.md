@@ -38,12 +38,12 @@ Ce projet a été créé pour fidéliser les utilisateurs GTAV et GTA Online du 
 
 ## Fonctionnalités
 
-- 🧭 Menus organisés par catégories : mod menus, récupération, protections, freeze, téléportation, tenues, véhicules, modèles et menus fun
-- ▶️ Lancement et arrêt des scripts GTA V accessibles dans l’environnement de jeu
-- 🎮 Raccourcis de lancement affichés dans le menu pour les scripts qui en définissent
-- ➕ Jusqu’à dix emplacements de scripts personnalisés, ajoutés par leur nom
-- 🎨 Personnalisation de l’arrière-plan, de l’opacité, des couleurs, de la position du menu et de l’effet glare
-- 📋 Menu d’informations indiquant NC V1 ModLoader v2.1, Noa_chid, la base NYD et 113 scripts annoncés
+- Menus organisés par catégories : mod menus, récupération, protections, freeze, téléportation, tenues, véhicules, modèles et menus fun
+- Lancement et arrêt des scripts GTA V accessibles dans l’environnement de jeu
+- Raccourcis de lancement affichés dans le menu pour les scripts qui en définissent
+- Jusqu’à dix emplacements de scripts personnalisés, ajoutés par leur nom
+- Personnalisation de l’arrière-plan, de l’opacité, des couleurs, de la position du menu et de l’effet glare
+- Menu d’informations indiquant NC V1 ModLoader v2.1, Noa_chid, la base NYD et 113 scripts annoncés
 
 ## Stack technique
 
