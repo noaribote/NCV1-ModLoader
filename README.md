@@ -8,7 +8,7 @@
 ![Jeu](https://img.shields.io/badge/jeu-GTA%20V-green)
 ![Version](https://img.shields.io/badge/version-2.1-orange)
 
-[Code source complet (archive ZIP)](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing) · [Site de Noa_chid’s XMB](https://www.noachidxmb.xyz/) · [Discord du projet](https://discord.gg/KKTWRF8bkg)
+[Code source complet (archive ZIP)](https://drive.google.com/file/d/175Zubkp1FWjL7sEelcsJAbfZsrge5-G0/view?usp=sharing) · [Site de Noa_chid’s XMB](https://www.noachidxmb.xyz/) · [Discord du projet](https://www.noachidxmb.xyz/discord)
 
 ![Image du NC V1 ModLoader](images/jeu0.png)
 
