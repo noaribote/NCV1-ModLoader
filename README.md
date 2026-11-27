@@ -111,6 +111,7 @@ Les contrôles de navigation et d’ouverture sont définis dans le code. Le men
 ## Structure du projet
 
 ```text
+.
 ├── bin/                              # SC-CL et bibliothèques nécessaires
 ├── images/                           # Captures du menu et vignettes vidéo
 ├── include/                          # En-têtes SC-CL et bibliothèque commune
